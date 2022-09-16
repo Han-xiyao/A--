@@ -1,10 +1,6 @@
 #include "stdio.h"
 int main()
 {
-	printf("********************\n");
-	printf("*                  *\n");
-	printf("* 大学＝大不了自学 *\n");
-	printf("*                  *\n");
-	printf("********************\n");
+	printf("I want to learn more.\n");
 	return 0;	
 }
